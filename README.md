@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willian
-- 👀 I’m interested in  lear  python
+- 👀 I’m interested in python
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on : nao faço ideia aonde sorry
+- 💞️ I’m looking to collaborate on : projects
 - 📫 How to reach me ...williammatias248gmail.com
 
 <!---
